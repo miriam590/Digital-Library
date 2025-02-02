@@ -10,7 +10,10 @@ function BookList({ books }) {
                 </li>
               ))
             ) : (
+              <>
               <p className="no-books">No books found.</p>
+              <p>search for available ones</p>
+              </>
             )}
           </ul>
         );
