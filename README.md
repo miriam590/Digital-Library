@@ -61,11 +61,6 @@ To install the project, follow these steps:
 ## Usage
 To start the development server, run:
 ```bash
-npm run dev
-```
-Open your browser and go to `http://localhost:3000` to view the application.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+npm start
 
 
