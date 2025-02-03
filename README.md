@@ -26,10 +26,6 @@ As a user, I can:
 - Add a new book to the library using a form. The form should capture the book's title, author, and genre.
 - Filter books by typing into a search bar. The search should update dynamically and display only books matching the search term in the title or genre.
 
-## Bonus Deliverables
-- Add a feature to edit existing books in the list.
-- Allow users to delete a book from the library.
-- Highlight the search term in the displayed results.
 
 ## Project Setup
 1. Create a new project folder.
