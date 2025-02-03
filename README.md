@@ -61,7 +61,7 @@ To install the project, follow these steps:
 ## Usage
 To start the development server, run:
 ```bash
-npm start
+npm run dev
 
 
 
