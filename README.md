@@ -64,7 +64,6 @@ To start the development server, run:
 npm start
 
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+
 
 
