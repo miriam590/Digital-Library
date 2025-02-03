@@ -26,7 +26,7 @@ function BookForm({ newBook, handleChange, handleSubmit }) {
           className="form-input"
         />
         <button type="submit" className="submit-button">
-          Add Book
+        📚Add Book📚
         </button>
       </form>
     );
