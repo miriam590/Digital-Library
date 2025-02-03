@@ -35,7 +35,7 @@ const initialBooks = [
 
   return (
     <div className="sec">
-      <h1>Place of knowledge</h1>
+      <h1>Place of knowledge📚👨🏿‍🎓👩🏿‍🎓</h1>
       <BookSearch search={search} handleSearch={handleSearch} />
       <BookForm newBook={newBook} handleChange={handleChange} handleSubmit={handleSubmit} />
       <BookList books={filteredBooks} />
