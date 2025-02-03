@@ -11,7 +11,9 @@ function BookList({ books }) {
               ))
             ) : (
               <>
-              <p className="no-books">No books found.</p>
+              <p className="no-books">No books found. Please add some books to the list.</p>
+              <p>or</p>
+              <p>Search for a book by title or author.</p>
               <p>search for available ones</p>
               </>
             )}
